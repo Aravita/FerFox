@@ -1,7 +1,7 @@
 /*
-	This file is part of Aravita's FerFox.
+	This file is part of Aravita's STM32 level 2 HAL.
 
-	FerFox is free software: you can redistribute it and/or modify
+	STM32 level 2 HAL is free software: you can redistribute it and/or modify
 	it under the terms of the GNU Affero General Public License as published by
 	the Free Software Foundation, either version 3 of the License, or
 	(at your option) any later version.
@@ -20,7 +20,7 @@
 
 	Feel free to contact: aravita_cor@proton.me
 
-	Repository: https://github.com/Aravita/FerFox
+	Repository: https://github.com/Aravita/stm32-l2hal
 
 	-------------------------------------------------------------------------
  */

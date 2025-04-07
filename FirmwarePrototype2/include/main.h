@@ -12,9 +12,6 @@
 
 #include <l2hal_config.h>
 
-#include <fmgl.h>
-#include <terminusRegular12.h>
-
 #include <filesystem.h>
 #include <jpeg_decoder.h>
 

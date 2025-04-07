@@ -28,7 +28,7 @@
 #ifndef FMGL_INCLUDE_FMGL_PRIVATE_H_
 #define FMGL_INCLUDE_FMGL_PRIVATE_H_
 
-#include <fmgl.h>
+#include "fmgl.h"
 
 /**
  * To avoid magic 8 in code.

@@ -92,7 +92,7 @@
 #include "../../../../mcu_dependent/l2hal_mcu.h"
 #include "../../../../include/l2hal_aux.h"
 #include "../include/l2hal_ssd1327_commands.h"
-#include <fmgl.h>
+#include "../../../../fmgl/include/fmgl.h"
 
 /**
  * If defined, then monochrome (instead of grayscale) mode will be used to save memory

@@ -29,7 +29,7 @@
 #define L2HAL_DRIVERS_DISPLAY_GC9A01_LOCAL_FRAMEBUFFER_INCLUDE_L2HAL_GC9A01_LFB_LFB_H_
 
 #include <stdbool.h>
-#include <fmgl.h>
+#include "../../../../fmgl/include/fmgl.h"
 #include "../../../../mcu_dependent/l2hal_mcu.h"
 
 /**

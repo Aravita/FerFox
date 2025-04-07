@@ -25,8 +25,8 @@
 	-------------------------------------------------------------------------
  */
 
-#include <fmgl_private.h>
-#include <l2hal_config.h>
+#include "../include/fmgl_private.h"
+#include "../../include/l2hal_errors.h"
 
 bool FMGL_Priv_IsActiveXBMPixel(FMGL_API_XBMImage* image, uint16_t x, uint16_t y)
 {

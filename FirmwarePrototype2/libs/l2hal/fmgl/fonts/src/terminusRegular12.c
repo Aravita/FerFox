@@ -25,7 +25,7 @@
 	-------------------------------------------------------------------------
  */
 
-#include "terminusRegular12.h"
+#include "../include/terminusRegular12.h"
 
 uint16_t FMGL_FontTerminusRegular12GetCharacterWidth (uint8_t character)
 {

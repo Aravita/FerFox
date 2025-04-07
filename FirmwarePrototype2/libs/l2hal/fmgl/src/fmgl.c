@@ -25,8 +25,9 @@
 	-------------------------------------------------------------------------
  */
 
-#include <fmgl_private.h>
-#include <l2hal_config.h>
+#include "../include/fmgl_private.h"
+#include "../../include/l2hal_aux.h"
+#include "../../include/l2hal_errors.h"
 
 FMGL_API_DriverContext FMGL_API_AttachToDriver
 (

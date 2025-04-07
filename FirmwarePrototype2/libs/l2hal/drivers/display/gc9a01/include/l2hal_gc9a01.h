@@ -31,7 +31,7 @@
 #include "../../../../mcu_dependent/l2hal_mcu.h"
 #include "../../../internal/crc/include/l2hal_crc.h"
 #include <stdbool.h>
-#include <fmgl.h>
+#include "../../../../fmgl/include/fmgl.h"
 
 /**
  * Display sizes
